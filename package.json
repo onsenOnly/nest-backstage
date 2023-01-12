@@ -27,7 +27,7 @@
     "@nestjs/platform-fastify": "^6.2.4",
     "bcrypt": "^3.0.6",
     "class-transformer": "^0.2.0",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "log4js": "^4.1.0",
